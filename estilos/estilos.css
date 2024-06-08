@@ -1,5 +1,8 @@
 *{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+body{
     background-color: #000000;
 }
 
@@ -18,5 +21,8 @@
     height: 100%;
     border-radius: 0 0 20px 20px;
     backdrop-filter: blur(20px);
+    position: relative;
+}
+.titleImage{
     position: relative;
 }
